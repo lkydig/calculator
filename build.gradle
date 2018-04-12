@@ -24,6 +24,7 @@ jacocoTestCoverageVerification {
         }
     }
 }
+apply plugin: 'checkstyle'
 
 group = 'com.lkydig'
 version = '0.0.1-SNAPSHOT'
